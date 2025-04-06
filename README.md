@@ -5,13 +5,10 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
-## 📊 Language Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelparaschiv&layout=compact)
 
 <!--
 **emyemy89/emyemy89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
