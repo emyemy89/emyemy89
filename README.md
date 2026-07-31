@@ -1,6 +1,4 @@
-## Welcome to my GitHub
-
-## 💻 Languages I Use:
+## Tech stack:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -11,7 +9,7 @@
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 
 ### Machine Learning
-PyTorch • Deep Learning • Federated Learning • Reinforcement Learning • Bayesian Learning
+PyTorch • Deep Learning • Federated Learning • Reinforcement Learning 
 
 ### Backend & Data
 PostgreSQL • BigQuery • Docker  • ClickHouse
