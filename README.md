@@ -12,7 +12,7 @@
 PyTorch • Deep Learning • Federated Learning • Reinforcement Learning 
 
 ### Backend & Data
-PostgreSQL • BigQuery • Docker  • ClickHouse
+PostgreSQL • BigQuery • Docker 
 
 ---
 
